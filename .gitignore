@@ -58,3 +58,24 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+.vscode
+Assets/VSCode.meta
+Assets/VSCode/
+Assets/uOSC.meta
+Assets/uOSC/
+Assets/UniGLTF.meta
+Assets/UniGLTF/
+Assets/VRM.meta
+Assets/VRM/
+Assets/VRMShaders.meta
+Assets/VRMShaders/
+Assets/Application/Characters.meta
+Assets/Application/Characters/
+Assets/Plugins/UniRx.meta
+Assets/Plugins/UniRx/
+Assets/Plugins/UniTask.meta
+Assets/Plugins/UniTask/
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/
+Settings.json
